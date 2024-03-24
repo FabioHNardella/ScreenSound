@@ -26,17 +26,3 @@ C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Codi
 C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Alura\obj\Debug\net8.0\Csharp.pdb
 C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Alura\obj\Debug\net8.0\Csharp.genruntimeconfig.cache
 C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Alura\obj\Debug\net8.0\ref\Csharp.dll
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.AssemblyInfoInputs.cache
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.AssemblyInfo.cs
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.csproj.CoreCompileInputs.cache
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.dll
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\refint\Csharp.dll
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.pdb
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\bin\Debug\net8.0\Csharp.exe
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\bin\Debug\net8.0\Csharp.deps.json
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\bin\Debug\net8.0\Csharp.runtimeconfig.json
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\bin\Debug\net8.0\Csharp.dll
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\bin\Debug\net8.0\Csharp.pdb
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\Csharp.genruntimeconfig.cache
-C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ScreenSound\obj\Debug\net8.0\ref\Csharp.dll
