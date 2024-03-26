@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Alura\\Csharp.csproj": {}
+    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\ScreenSound\\Csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Alura\\Csharp.csproj": {
+    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\ScreenSound\\Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Alura\\Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\ScreenSound\\Csharp.csproj",
         "projectName": "Csharp",
-        "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Alura\\Csharp.csproj",
+        "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\ScreenSound\\Csharp.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Alura\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
