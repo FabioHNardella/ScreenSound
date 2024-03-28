@@ -1,4 +1,7 @@
-﻿/* Banda fiveSOS = new Banda("5 Seconds Of Summer");
+﻿/*
+-=-=-==-=-=-=-=-=-=-= TESTING Musica,Album and Banda CLASSES AND ITS METHODS -=-=-==-=-=-=-=-=-=-=
+
+/* Banda fiveSOS = new Banda("5 Seconds Of Summer");
 Album album5SecondsOfSummer = new Album("YoungBlood");
 
 Musica musica1FSOS = new Musica(fiveSOS, "YoungBlood")
@@ -28,9 +31,10 @@ album5SecondsOfSummer.AddMusica(musica2FSOS);
 album5SecondsOfSummer.AddMusica(musica3FSOS);
 album5SecondsOfSummer.AddMusica(musica4FSOS);
 fiveSOS.AdicionarAlbum(album5SecondsOfSummer); 
-*/
+------------------------------------------------------------------------
+-=-=-==-=-=-=-=-=-=-= TESTING Podcast and Episodio CLASSES AND ITS METHODS -=-=-==-=-=-=-=-=-=-=
 
-Podcast podcast1 = new Podcast("Lari G", "Os mistérios de Antetêgemon");
+/*Podcast podcast1 = new Podcast("Lari G", "Os mistérios de Antetêgemon");
 
 Episodio ep1 = new Episodio(1, "Amongus", 22);
 podcast1.AddEpisodio(ep1);
@@ -51,4 +55,5 @@ podcast1.AddEpisodio(ep5);
 
 
 podcast1.ExibirDetalhes();
-
+------------------------------------------------------------------------
+*/
